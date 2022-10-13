@@ -89,7 +89,7 @@ const config = {
               },
               {
                 label: 'Documentation du Staff',
-                to: '/docs/staff',
+                to: '/docs/dev',
               },
             ],
           },
