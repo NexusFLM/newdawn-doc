@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+title: Doc Admin
 ---
 
 # Documentation Admin
@@ -8,7 +9,15 @@ Vous faites partie de l'équipe d'Administration de **New Dawn** et vous cherche
 
 ## Informations Générales
 
-**----- TODO -----**
+### Panel d'administration
+
+Votre meilleur ami sur New Dawn sera le panel d'administration ou TxAdmin. En effet sur cette page vous pourrez y réaliser la plupart des actions d'administration, la seule contrainte sera votre grade. Rien de bien foufou mais voici quand même une liste des actions possible sur ce panel comme par exemple :
+- Gérer la Whitelist
+- Ban / Kick
+- Mettre des notes sur les joueurs pour avoir un suivi les concernants
+- Connaitre le nombre de joueurs présent
+- Restart / Stop / Start le serveur
+- Et d'autres choses..
 
 ### Créer un item
 
