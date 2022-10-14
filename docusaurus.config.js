@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'NewDawn Docs',
-  tagline: 'Lexinor est très cool',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'New Dawn',
+  tagline: 'Bienvenue sur la documentation',
+  url: 'https://newdawn-doc.herokuapp.com/',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -57,7 +57,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'NewDawn Docs',
+        title: 'Accueil',
         logo: {
           alt: 'Logo NewDawn RP',
           src: 'img/logo.svg',
@@ -69,7 +69,7 @@ const config = {
             position: 'left',
             label: 'Documentation',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          // {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/NewDawn-RP/newdawn-doc',
             label: 'GitHub',
@@ -85,11 +85,11 @@ const config = {
             items: [
               {
                 label: 'Documentation des Devs',
-                to: '/docs/dev',
+                to: '/docs/category/d%C3%A9veloppement',
               },
               {
                 label: 'Documentation du Staff',
-                to: '/docs/dev',
+                to: '/docs/category/administration',
               },
             ],
           },
@@ -113,10 +113,10 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
+              // {
+              //   label: 'Blog',
+              //   to: '/blog',
+              // },
               {
                 label: 'GitHub',
                 href: 'https://github.com/NewDawn-RP/newdawn-doc',
@@ -124,7 +124,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Documentation New Dawn, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
