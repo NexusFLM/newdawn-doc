@@ -6,6 +6,19 @@ title: Doc Dév
 # Documentation Dev.
 
 Vous venez de rejoindre l'équipe developpement du serveur et on vous envoi ici. Ca tombe bien vous allez apprendre deux trois trucs !
+Vous trouverez ici toutes les informations nécessaires concernant le développement sur New Dawn. On va commencer plutôt simple avec une liste de lien très utiles pour développer
+Ouais désolé, encore de la documentation mais bon voilà !
+
+- [Documentation d'ESX](https://docs.esx-framework.org/legacy/installation)
+- [Documentation d'Overextended](https://overextended.github.io/docs/)
+- [Documentation d'Ox_Inventory](https://overextended.github.io/docs/ox_inventory)
+- [Liste des Véhicules GTA:V](https://wiki.rage.mp/index.php?title=Vehicles)
+- [Liste des Armes GTA:V](https://wiki.rage.mp/index.php?title=Weapons)
+- [Documentation FiveM](https://docs.fivem.net/natives/)
+- [Forum de FiveM](http://forum.cfx.re)
+
+# Démarrer le développement
+
 Pour pouvoir vous mettre en place un environnement de travail il y a quelques pré-requis :
 1. Récupérer la dernière version du TxAdmin, ce qui vous facilitera grandement l'installation et le setup de votre serveur
 2. Télécharger et installer XAMPP pour le développement en local
