@@ -85,10 +85,11 @@ Cet exemple de code va faire les choses suivantes :
 
 Vous venez tout juste de créer un nouvel item et vous souhaitez le mettre sur le serveur. Il y a quelques pré-requis avant de faire ça :
 1. Si votre item a besoin de faire des actions particulières il faut informer l'équipe de deveveloppement afin de voir avec elle le nécessaire à réaliser. 
-2. Il vous faudra avoir l'accès à ce site : [https://github.com/NewDawn-RP/ox_inventory](Repository Ox_inventory version New Dawn). Si vous n'y avez pas accès arrêtez vous là et demander à **Lexinor** l'accès.
+2. Il vous faudra avoir l'accès à ce site : [Repository Ox_inventory version New Dawn](https://github.com/NewDawn-RP/ox_inventory). Si vous n'y avez pas accès arrêtez vous là et demander à **Lexinor** l'accès.
 3. Une fois votre accès en poche, vous avez deux endroits où aller : 
-    - Ce lien, sera l'endroit où vous metterez le code de votre item [https://github.com/NewDawn-RP/ox_inventory/blob/main/data/items.lua](Liste-des-tems)
-    - Ce lien pour y ajouter une potentielle miniature que vous voudriez ajouter [https://github.com/NewDawn-RP/ox_inventory/tree/main/web/images](Liste-des-images).
+    - [Ce lien, sera l'endroit où vous metterez le code de votre item](https://github.com/NewDawn-RP/ox_inventory/blob/main/data/items.lua)
+    - [Ce lien pour y ajouter une potentielle miniature que vous voudriez ajouter](https://github.com/NewDawn-RP/ox_inventory/tree/main/web/images)
+
 **TRES IMPORTANT** Veuillez vérifier que vos nouveaux items et nouvelles icônes soient _*UNIQUE*_
 
 **NON TERMINEE**
