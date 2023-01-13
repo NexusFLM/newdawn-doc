@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'New Dawn',
   tagline: 'Bienvenue sur la documentation',
-  url: 'https://newdawn-doc.herokuapp.com/',
+  url: 'http://newdawn-doc.herokuapp.com/',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -85,7 +85,7 @@ const config = {
             items: [
               {
                 label: 'Documentation des Devs',
-                to: '/docs/category/d%C3%A9veloppement',
+                to: '/docs/category/developpement',
               },
               {
                 label: 'Documentation du Staff',
