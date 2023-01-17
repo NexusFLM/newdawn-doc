@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'New Dawn',
   tagline: 'Bienvenue sur la documentation',
-  url: 'https://newdawn-doc.github.io', // Your website URL
+  url: 'https://NewDawn-RP.github.io', // Your website URL
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -17,8 +17,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'newdawn-rp', // Usually your GitHub org/user name.
-  projectName: 'newdawn-doc.github.io', // Usually your repo name.
+  organizationName: 'NewDawn-RP', // Usually your GitHub org/user name.
+  projectName: 'NewDawn-RP.github.io/newdawn-doc', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
