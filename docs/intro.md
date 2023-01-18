@@ -2,6 +2,6 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Bienvenue !
 
-Bienvenue sur la documentation de New Dawn, choisissez une catégorie qui corresponds à vos besoin !
+Bienvenue sur la documentation de New Dawn, choisissez une catégorie qui corresponds à vos besoins !
