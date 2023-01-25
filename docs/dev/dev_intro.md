@@ -9,11 +9,12 @@ Vous venez de rejoindre l'équipe developpement du serveur et on vous envoi ici.
 Vous trouverez ici toutes les informations nécessaires concernant le développement sur New Dawn. On va commencer plutôt simple avec une liste de lien très utiles pour développer
 Ouais désolé, encore de la documentation mais bon voilà !
 
-- [Documentation d'ESX](https://docs.esx-framework.org/legacy/installation)
+- [Documentation d'ESX](https://documentation.esx-framework.org/legacy/installation)
 - [Documentation d'Overextended](https://overextended.github.io/docs/)
 - [Documentation d'Ox_Inventory](https://overextended.github.io/docs/ox_inventory)
 - [Liste des Véhicules GTA:V](https://wiki.rage.mp/index.php?title=Vehicles)
 - [Liste des Armes GTA:V](https://wiki.rage.mp/index.php?title=Weapons)
+- [Liste des Animations GTA:V](https://wiki.rage.mp/index.php?title=Animations)
 - [Documentation FiveM](https://docs.fivem.net/natives/)
 - [Forum de FiveM](http://forum.cfx.re)
 
