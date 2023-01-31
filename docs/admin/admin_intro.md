@@ -84,12 +84,25 @@ Cet exemple de code va faire les choses suivantes :
 ### Mettre en ligne un item
 
 Vous venez tout juste de créer un nouvel item et vous souhaitez le mettre sur le serveur. Il y a quelques pré-requis avant de faire ça :
-1. Si votre item a besoin de faire des actions particulières il faut informer l'équipe de deveveloppement afin de voir avec elle le nécessaire à réaliser. 
-2. Il vous faudra avoir l'accès à ce site : [Repository Ox_inventory version New Dawn](https://github.com/NewDawn-RP/ox_inventory). Si vous n'y avez pas accès arrêtez vous là et demander à **Lexinor** l'accès.
-3. Une fois votre accès en poche, vous avez deux endroits où aller : 
+1. Si votre item a besoin de faire des actions particulières il faut informer l'équipe de deveveloppement afin de voir avec elle le nécessaire à réaliser.
+2. Rendez-vous sur ce site [Github](https://github.com/) et créez vous un compte, **si vous avez déjà un compte passez à la suite**.
+3. Il vous faudra avoir l'accès à ce site : [Repository Ox_inventory version New Dawn](https://github.com/NewDawn-RP/ox_inventory). Si vous n'y avez pas accès arrêtez vous là et demander à **Lexinor** l'accès.
+4. Une fois votre accès en poche, vous avez deux endroits où aller : 
     - [Ce lien, sera l'endroit où vous metterez le code de votre item](https://github.com/NewDawn-RP/ox_inventory/blob/main/data/items.lua)
     - [Ce lien pour y ajouter une potentielle miniature que vous voudriez ajouter](https://github.com/NewDawn-RP/ox_inventory/tree/main/web/images)
+5. Pour ajouter une icône de miniature, rien de plus simple rendez-vous sur le lien ci-dessus et cliquez sur "Add files..". **Nommez vos miniature avec le même nom que l'item**. Par exemple votre item s'appelle ['cheese'] => votre image se nommera => cheese.png
+6. Pour ajouter un item ça va un peu plus compliqué mais rien d'insurmontable. Voici les étapes à réaliser :
+    - Encore une fois rendez-vous sur le lien donné plus haut puis cliquez sur l'icône en forme stylo. Vous entrerez en mode "edition" sur le fichier. 
+    - Suite à ça, allez tout en bas du fichier. Juste avant la dernière accolade (**ceci est une accoalde => }**) collez simplement cette exemple d'item et changez les valeur que vous  avez besoin de changer.
+        ['opium'] = {
+            label = 'opium',
+            weight = 500,
+            stack = true,
+            close = true,
+            description = nil
+        },
+     - Respectez bien le format svp, si vous avez des questions et que vous n'êtes pas sûr de vous, n'hésitez pas à poser la question à un autre staff qui aurait la réponse, sinon demandez à Lexinor.
+7. Pour terminer, il vous reste une dernière étape qui sera de "commit" (envoyez) vos modifications en mettant un petit message de titre pour expliquer ce que vous venez de faire ce qui nous aidera à tracer les ajouts fait sur le fichier :)
+8. Confirmez en appuyant sur "Commit changes" et voilà, vous avez créé votre premier item !
 
 **TRES IMPORTANT** Veuillez vérifier que vos nouveaux items et nouvelles icônes soient _*UNIQUE*_
-
-**NON TERMINEE**
